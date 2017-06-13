@@ -1,2 +1,2 @@
 # hello-world
-brand new
+brand new, finally trying my hand at this coding thing
